@@ -4,10 +4,12 @@
 /* Sorry for lack of edit history. I can't code everything on replit due to internet issues, but I need help knowing how to operate VS Code Git/Github stuff. Will probably reach out during class next week */
 
 #include <iostream>
-#include <vector>
-#include <string>
 #include <fstream>
+#include <sstream>
+#include <string>
+#include <vector>
 #include <limits>
+#include <iomanip>
 using namespace std;
 
 const int NMISP = 5;
